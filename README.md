@@ -1,7 +1,7 @@
 # Поиск дефектов на промышленных деталях
 
 ## 1.Cкачайте датасет по ссылке:https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset
-## 2. Создай структуру папок для данных: mkdir data models results
+## 2. Создайте структуру папок для данных: mkdir data models results
 
 ## 3. Настройка через Anaconda
 
