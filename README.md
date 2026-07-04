@@ -1,0 +1,1 @@
+# mtuci_search_defects_industrial_parts
