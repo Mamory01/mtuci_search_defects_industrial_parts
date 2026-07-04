@@ -1,0 +1,11 @@
+torch
+torchvision
+scikit-learn
+pandas
+numpy
+opencv-python
+seaborn
+matplotlib
+tqdm
+openpyxl
+roboflow
